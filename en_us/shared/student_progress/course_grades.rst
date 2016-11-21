@@ -469,7 +469,7 @@ the course, learners with a grade of 0.60 or higher can receive certificates.
    of sync with actual problem scores. For example, if the course team changes
    a released problem's total possible points, learners who submitted answers
    to the problem before the change will have grades on the **Progress** page
-   that do not reflect the problem's new total point. This asynchronicity will
+   that do not reflect the problem's new total points. This asynchronicity will
    remain until either the course team rescores the changed problem, or
    learners resubmit the problem.
 
