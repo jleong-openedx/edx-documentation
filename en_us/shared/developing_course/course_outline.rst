@@ -161,14 +161,19 @@ Adding New Sections, Subsections, or Units
 Duplicating Existing Sections, Subsections, or Units
 =======================================================
 
-To add a section, subsection, or unit by duplicating content that already
-exists in the course outline, select the **Duplicate** icon for the item that
-you want to duplicate. You see a **Duplicating** indicator at the bottom of the Studio page.
+To add a section, subsection, or unit by duplicating content that already exists
+in the course outline, select the **Duplicate** icon for the item that you want
+to duplicate. You see a **Duplicating** indicator at the bottom of the Studio
+page.
 
 Duplicated items are added to the course outline immediately below the
-original item, with the name "Duplicate of..." assigned to it.
+original item, with the name "Duplicate of <original item name>".
 
-
+.. note:: Duplicated items inherit the release date of the item that they are
+   duplicated from, but you must explicitly publish duplicated subsections and
+   units before they are visible to learners. For more information about
+   release statuses and visibility of sections to learners, see :ref:`Sections
+   and Visibility to Learners`.
 
 .. _Modify Settings for Objects in the Course Outline:
 
