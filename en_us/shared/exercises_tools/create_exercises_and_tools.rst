@@ -357,7 +357,7 @@ tools that you can add to your course.
      - You can embed Oppia explorations in your course so that learners can
        interact with them directly in the course body.
      - Provisional support
-   * - :ref:`UBC Peer Instruction`
+   * - :ref:`UBC Peer Rationale Reflection`
      - This type of exercise offers the experience of the Peer Instruction
        learning system within your online course.
      - Full support
